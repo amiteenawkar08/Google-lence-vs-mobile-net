@@ -1,5 +1,5 @@
 p{
-    color: rgb(246, 159, 224);
+    color: rgb(159, 246, 213);
     letter-spacing: 1px;
     font-size: 15px;
 }
@@ -10,7 +10,7 @@ span{
     letter-spacing: 2px;
 }
 .bottom{
-    color: rgb(233, 158, 248);
+    color: rgb(249, 255, 73);
     position: fixed;
     bottom: 0;
     text-align: center;
@@ -24,10 +24,10 @@ span{
     border-radius: 10px;
 }
 b{
-    color: rgb(222, 48, 222);
+    color: rgb(48, 158, 222);
 }
 .first,.second{
-    background-color: rgb(236, 149, 203);
+    background-color: rgb(229, 239, 113);
     border-radius: 10px;
     line-height: 2;
 }
@@ -35,7 +35,7 @@ b{
     margin-top: 15px;
     background-color: rgb(217, 139, 219);
     border-radius: 10px;
-    box-shadow: 1px 1px 25px rgb(246, 118, 235);
+    box-shadow: 1px 1px 25px rgb(168, 205, 115);
     width:99%;
     margin-bottom: 15px;
 }
@@ -51,4 +51,7 @@ span{
 h4{
     color: rgb(0, 166, 255);
     font-weight: bold;
+}
+#mobile{
+    font-size: 30px;
 }
